@@ -1,0 +1,13 @@
+{
+  "projects": {},
+  "targets": {
+    "gnosia-f1586": {
+      "hosting": {
+        "game": [
+          "game-gnosia"
+        ]
+      }
+    }
+  },
+  "etags": {}
+}

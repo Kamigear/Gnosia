@@ -1,0 +1,18 @@
+{
+  "name": "gnosia-party-game",
+  "version": "1.0.0",
+  "description": "Social deduction party game inspired by Werewolf",
+  "scripts": {
+    "start": "python -m http.server 8000 --directory public",
+    "dev": "python -m http.server 8000 --directory public"
+  },
+  "keywords": [
+    "game",
+    "party",
+    "werewolf",
+    "social-deduction",
+    "firebase"
+  ],
+  "author": "",
+  "license": "MIT"
+}
