@@ -22,5 +22,5 @@ jobs:
         uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_GNOSIA_F1586 }}
+          firebaseServiceAccount: ${{ secrets.firebase-adminsdk-fbsvc@gnosia-f1586.iam.gserviceaccount.com }}
           projectId: gnosia-f1586
