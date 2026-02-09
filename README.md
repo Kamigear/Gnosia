@@ -1,1 +1,1 @@
-[PBI - Persatuan Bot Indonesia] - [Gnosia]
+PBI - Persatuan Bot Indonesia - Gnosia
